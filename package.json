@@ -7,6 +7,9 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "dev": "npm --prefix portfolio run dev",
+    "build": "npm --prefix portfolio run build",
+    "deploy": "npm --prefix portfolio run deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
