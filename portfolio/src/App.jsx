@@ -46,8 +46,7 @@ function App() {
             <div className="hero-text-content">
               <div className="eyebrow reveal" style={{ transitionDelay: '0.1s' }}><span className="dot"></span> Growth Marketing Specialist</div>
               <h1 className="reveal" style={{ transitionDelay: '0.2s' }}>
-                I turn <span className="gradient">data, strategy,</span>
-                and execution into growth.
+                I turn user behaviour into growth, and <span className="gradient">growth into revenue.</span>
               </h1>
               <p className="hero-copy reveal" style={{ transitionDelay: '0.3s' }}>
                 With experience across paid media, SEO, CRM, automation, and funnel optimization,
